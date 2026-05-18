@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite DB and Flask instance folder
+instance/
+*.db
+*.sqlite3
+
+# Environment variables (NEVER commit these!)
+.env
+.flaskenv
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
