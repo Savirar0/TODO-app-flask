@@ -28,4 +28,6 @@ pip install flask
 python app.py
 ```
 
-App runs on `http://localhost:5000`
+App runs locally on `http://localhost:5000`
+
+App deployed at 'https://flask-todo-app-jhes.onrender.com/'
